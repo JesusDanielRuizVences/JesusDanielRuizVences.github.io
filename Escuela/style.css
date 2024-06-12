@@ -1,0 +1,170 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2454px;
+}
+
+.desktop .overlap {
+  position: relative;
+  height: 2454px;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 2454px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .image {
+  width: 342px;
+  height: 440px;
+  top: 1143px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img {
+  width: 350px;
+  height: 350px;
+  top: 783px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-2 {
+  width: 662px;
+  height: 775px;
+  top: 692px;
+  left: 168px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-3 {
+  width: 872px;
+  height: 354px;
+  top: 1313px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .polygon {
+  position: absolute;
+  width: 805px;
+  height: 822px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .polygon-2 {
+  position: absolute;
+  width: 835px;
+  height: 975px;
+  top: 867px;
+  left: 605px;
+}
+
+.desktop .polygon-3 {
+  position: absolute;
+  width: 827px;
+  height: 864px;
+  top: 1590px;
+  left: 0;
+}
+
+.desktop .ellipse {
+  background-color: #9b9b9b;
+  border-radius: 267px/268.5px;
+  position: absolute;
+  width: 534px;
+  height: 537px;
+  top: 65px;
+  left: 841px;
+}
+
+.desktop .ellipse-2 {
+  object-fit: cover;
+  position: absolute;
+  width: 534px;
+  height: 537px;
+  top: 65px;
+  left: 841px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 641px;
+  height: 147px;
+  top: 601px;
+  left: 788px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .educaci-n-educaci-n {
+  position: absolute;
+  width: 706px;
+  top: 28px;
+  left: 29px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #7776bd;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .educaci-n-superior {
+  position: absolute;
+  width: 700px;
+  top: 1032px;
+  left: 699px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #7776bd;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-4 {
+  width: 597px;
+  height: 374px;
+  top: 1828px;
+  left: 787px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .div {
+  position: absolute;
+  width: 378px;
+  height: 197px;
+  top: 2256px;
+  left: 1062px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

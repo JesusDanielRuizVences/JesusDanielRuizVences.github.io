@@ -1,0 +1,234 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2454px;
+}
+
+.desktop .overlap {
+  position: relative;
+  width: 1380px;
+  height: 2454px;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1314px;
+  height: 2454px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .div {
+  position: absolute;
+  width: 697px;
+  height: 2454px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 430px;
+  height: 2454px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.desktop .ellipse {
+  width: 534px;
+  height: 537px;
+  top: 98px;
+  left: 163px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img {
+  width: 333px;
+  height: 322px;
+  top: 743px;
+  left: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ellipse-2 {
+  width: 333px;
+  height: 322px;
+  top: 1173px;
+  left: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ellipse-3 {
+  width: 333px;
+  height: 322px;
+  top: 1603px;
+  left: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ellipse-4 {
+  width: 101px;
+  height: 88px;
+  top: 1958px;
+  left: 380px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ellipse-5 {
+  width: 101px;
+  height: 98px;
+  top: 2089px;
+  left: 380px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 641px;
+  height: 147px;
+  top: 832px;
+  left: 673px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 641px;
+  height: 147px;
+  top: 1259px;
+  left: 673px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 641px;
+  height: 147px;
+  top: 1686px;
+  left: 673px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .ic-face {
+  left: 497px;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 2235px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 416px;
+  top: 1987px;
+  left: 572px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 416px;
+  top: 2111px;
+  left: 572px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 570px;
+  height: 283px;
+  top: 97px;
+  left: 780px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 630px;
+  height: 208px;
+  top: 380px;
+  left: 750px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .ic-twitter {
+  left: 733px;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 2235px;
+  object-fit: cover;
+}
+
+.desktop .ic-insta {
+  left: 1221px;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 2235px;
+  object-fit: cover;
+}
+
+.desktop .ic-whats {
+  left: 977px;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 2235px;
+  object-fit: cover;
+}
